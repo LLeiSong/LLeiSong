@@ -1,4 +1,3 @@
-I am a PhD candidata in Geography at Clark University.
 <!--
 **LLeiSong/LLeiSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
