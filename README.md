@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I am a PhD candidata in Geography at Clark University.
 <!--
 **LLeiSong/LLeiSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLeiSong&theme=radical&layout=compact&hide_title=true" />
+</p>
+
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=LLeiSong&theme=radical&show_icons=true&hide_title=true&hide_border=true" />
+</p>
