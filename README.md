@@ -19,7 +19,7 @@ I study how climate and land-use change reshape terrestrial ecosystems, affect b
 
 ### 📊 GitHub Insights
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LLeiSong&show_icons=true&theme=radical&hide_border=true&title_color=00599C" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLeiSong&layout=compact&theme=radical&hide_border=true&title_color=00599C" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LLeiSong&show_icons=true&theme=radical&hide_border=true&title_color=00599C" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LLeiSong&layout=compact&theme=radical&hide_border=true&title_color=00599C" height="150" />
 </p>
 
