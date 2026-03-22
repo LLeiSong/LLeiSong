@@ -9,11 +9,11 @@
 ---
 
 ### About Me
-I study how climate and land-use change reshape terrestrial ecosystems, affect biodiversity, and alter interactions between people and wildlife. My work integrates **Remote Sensing**, **GIScience**, and **Computational ecology** to develop scalable, explainable tools for conservation and policy.
+I study how climate and land-use change reshape terrestrial ecosystems, affect biodiversity, and alter interactions between people and wildlife. My work integrates **Remote Sensing**, **GIScience**, and **Computational Ecology** to develop scalable, explainable tools for conservation and policy.
 
-- 🔭 **Current Focus:** Species conservation, human-wildlife interactions, and sustainable land use planning 🐘🐘🐘.
-- 🎓 **Background:** Previously Postdoctoral Scholar at UC Santa Barbara; PhD from Clark University.
-- 🛠️ **Tech Stack:** Specialized in R, Python, and Machine Learning for spatial ecology.
+- **Current Focus:** Species conservation, human-wildlife interactions, and sustainable land use planning.
+- **Background:** Previously Postdoctoral Scholar at UC Santa Barbara; PhD from Clark University.
+- **Tech Stack:** Specialized in R, Python, and Machine Learning for spatial ecology.
 
 ---
 
