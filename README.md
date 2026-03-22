@@ -1,4 +1,4 @@
-# 🌍 Lei Song, PhD
+# Lei Song, PhD
 
 **Assistant Professor of Geography at Rutgers University–New Brunswick** 
 
